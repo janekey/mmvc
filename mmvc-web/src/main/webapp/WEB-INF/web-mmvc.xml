@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mmvc-config>
+    <controller package="com.janekey.mmvcweb.controller"/>
+</mmvc-config>
